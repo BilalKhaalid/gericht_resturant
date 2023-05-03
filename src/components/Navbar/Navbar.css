@@ -14,6 +14,8 @@
 
 .app__navbar-logo img {
   width: 150px;
+  margin-left: 1.5rem;
+  margin-top: 0.3rem;
 }
 
 .app__navbar-links {
