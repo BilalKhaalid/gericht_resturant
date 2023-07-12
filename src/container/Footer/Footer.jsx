@@ -13,7 +13,7 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet, saepe.
+          Discover our location and join us for a memorable experience.
         </p>
         <p className="p__opensans">+1 240-68820 </p>
         <p className="p__opensans">+1 240-68820 </p>

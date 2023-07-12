@@ -12,7 +12,7 @@ const FindUs = () => (
 
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+          Discover our location and join us for a memorable experience.
         </p>
         <p
           className="p__cormorant"

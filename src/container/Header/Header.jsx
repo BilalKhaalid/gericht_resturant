@@ -9,8 +9,9 @@ const Header = () => (
       <SubHeading title={"Chase The New Flavor"} />
       <h1 className="app__header-h1">The Key To Fine Dinning</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nulla
-        exercitationem harum.
+        Welcome to Gericht, where culinary mastery meets exceptional dining.
+        Immerse yourself in a world of exquisite flavors and artfully crafted
+        dishes, thoughtfully prepared by our talented chefs.
       </p>
       <button className="custom__button" type="button">
         Explore Menu
