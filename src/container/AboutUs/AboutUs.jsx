@@ -16,8 +16,10 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="spoon" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque rerum
-          quis architecto!
+          At Gericht, we are more than just a restaurant. We are a culinary
+          institution with a rich history that spans decades. Established in
+          2010, we have been passionately serving exceptional cuisine and
+          creating unforgettable dining experiences for our esteemed guests.
         </p>
         <button className="custom__button" type="button">
           Know More
@@ -32,8 +34,10 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="spoon" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque rerum
-          quis architecto!
+          Our journey began with a vision to redefine gastronomy, to push
+          boundaries, and to elevate the art of dining. With a team of skilled
+          chefs, dedicated staff, and a commitment to sourcing the finest
+          ingredients, we have earned a reputation for culinary excellence.
         </p>
         <button className="custom__button" type="button">
           Know More

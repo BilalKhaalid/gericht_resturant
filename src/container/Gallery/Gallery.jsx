@@ -36,8 +36,8 @@ const Gallery = () => {
         <h1 className="headtext__cormorant">Photo Gallery</h1>
 
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo ad
-          incidunt ipsa?
+          A visual feast capturing memorable moments and inspiring experiences
+          through captivating imagery.
         </p>
 
         <button type="button" className="custom__button">
